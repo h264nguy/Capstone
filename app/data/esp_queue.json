@@ -1,0 +1,88 @@
+[
+  {
+    "id": "afff7a60-a645-44a5-9e81-1fbb1ac72cf9",
+    "username": "6666",
+    "ts": "2026-01-22T02:04:56.086750+00:00",
+    "status": "pending",
+    "items": [
+      {
+        "drinkId": "classic_fusion",
+        "drinkName": "Classic Fusion",
+        "quantity": 3,
+        "calories": 76
+      },
+      {
+        "drinkId": "sparkling_citrus_mix",
+        "drinkName": "Sparkling Citrus Mix",
+        "quantity": 4,
+        "calories": 118
+      },
+      {
+        "drinkId": "tropical_charge",
+        "drinkName": "Tropical Charge",
+        "quantity": 4,
+        "calories": 86
+      },
+      {
+        "drinkId": "base_coca_cola",
+        "drinkName": "Coca-Cola",
+        "quantity": 3,
+        "calories": 140
+      }
+    ]
+  },
+  {
+    "id": "dd59d224-a93d-4f95-8a10-c66194edb205",
+    "username": "6666",
+    "ts": "2026-01-22T02:05:20.471060+00:00",
+    "status": "pending",
+    "items": [
+      {
+        "drinkId": "cola_spark",
+        "drinkName": "Cola Spark",
+        "quantity": 4,
+        "calories": 81
+      },
+      {
+        "drinkId": "citrus_cloud",
+        "drinkName": "Citrus Cloud",
+        "quantity": 4,
+        "calories": 84
+      }
+    ]
+  },
+  {
+    "id": "0b4a1c70-756a-4d12-8ad0-d5a179a33ba0",
+    "username": "6666",
+    "ts": "2026-01-22T02:05:33.899478+00:00",
+    "status": "pending",
+    "items": [
+      {
+        "drinkId": "amber_storm",
+        "drinkName": "Amber Storm",
+        "quantity": 6,
+        "calories": 104
+      },
+      {
+        "drinkId": "base_orange_juice",
+        "drinkName": "Orange Juice",
+        "quantity": 4,
+        "calories": 45
+      }
+    ]
+  },
+  {
+    "id": "f023d600-4be4-44ff-98df-0ae1086fc2a0",
+    "username": "6666",
+    "ts": "2026-01-22T02:05:44.047179+00:00",
+    "status": "pending",
+    "items": [
+      {
+        "drinkId": "sunset_fizz",
+        "drinkName": "Sunset Fizz",
+        "quantity": 4,
+        "calories": 87
+      }
+    ]
+  }
+]
